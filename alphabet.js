@@ -1,4 +1,4 @@
-// https://codegolf.stackexchange.com/questions/196192/pointlessly-make-your-way-down-the-alphabet
+// https://codegolf.stackexchange.com/questions/196192
 
 f = s =>
 	s.map(p = c =>
